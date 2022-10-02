@@ -3,7 +3,7 @@ A basic setup code to get Three.js latest r145 with webpack for node.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Next, run the following commands:
 
 ``` bash
 # Install dependencies (only the first time)
